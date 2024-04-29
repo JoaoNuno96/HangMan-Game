@@ -1,0 +1,14 @@
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\bin\Debug\net8.0\HangManGame.exe
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\bin\Debug\net8.0\HangManGame.deps.json
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\bin\Debug\net8.0\HangManGame.runtimeconfig.json
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\bin\Debug\net8.0\HangManGame.dll
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\bin\Debug\net8.0\HangManGame.pdb
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.AssemblyInfoInputs.cache
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.AssemblyInfo.cs
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.csproj.CoreCompileInputs.cache
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.dll
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\refint\HangManGame.dll
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.pdb
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\HangManGame.genruntimeconfig.cache
+C:\Users\João Nuno\source\repos\HangManGame\HangManGame\obj\Debug\net8.0\ref\HangManGame.dll
